@@ -8,7 +8,7 @@
 	<version>2.1.0</version>
 	<packaging>jar</packaging>
 
-	<name>RuoYi</name>
+	<name>JustLin</name>
 	<description>JustLin管理系统</description>
 
 	<parent>
